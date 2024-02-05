@@ -151,8 +151,16 @@ body {
     padding: 100px;
     display: flex;
     justify-content: space-between;
+    
 }
 
+.info h2 {
+    position: relative;
+text-align: center;
+    font-size: 25px;
+    color: #303030;
+
+}
 
 .info-1 {
     width: 300px;
